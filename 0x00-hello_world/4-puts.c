@@ -1,10 +1,13 @@
 #include <stdio.h>
 
-/* use the function puts to print a string */
+/**
+ * main - Entry point
+ * Return: Always 0 (Sucess)
+ */ 
 
 int main(void)
 {
-	puts("Programming is like building a multilingual puzzle\n");
+	puts("\"Programming is like building a multilingual puzzle\n");
 	return (0);
 }
 
