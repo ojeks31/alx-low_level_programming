@@ -2,8 +2,8 @@
 /**
  * main - Print the size of various types based on
  * the computer it is compiled and run.
- * Reture: Always 0 (success)
- */
+ * Reture: Always 0. 
+*/
 int main(void)
 {
 	printf("Size of char: %zu byte(s)\n", sizeof(char));
@@ -13,3 +13,4 @@ int main(void)
 	printf("Size of float: %zu byte(s)\n", sizeof(float));
 	return (0);
 }
+
