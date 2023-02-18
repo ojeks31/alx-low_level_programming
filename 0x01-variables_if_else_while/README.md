@@ -7,3 +7,4 @@ Write a program that prints the alphabet in lowercase, followed by a new line.
 Write a program that prints the alphabet in lowercase, and then in uppercase
 Write a program that prints the alphabet in lowercase,
 Write a program that prints all possible combinations of single-digit numbers.
+assign a random number to the variable n
