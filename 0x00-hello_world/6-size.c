@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main - Description: Print the size of various types based on
- * the computer it is compiled and run.
+ * main - entry point
  * Reture: Always 0
 */
 int main(void)
