@@ -6,3 +6,4 @@ Write a function that checks for lowercase character.
 Write a function that checks for alphabetic character
 a function that prints the sign of a number.
 a function that computes the absolute value of an integer.
+a function that prints the last digit of a number.
