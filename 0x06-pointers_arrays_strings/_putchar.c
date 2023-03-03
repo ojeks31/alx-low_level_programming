@@ -1,5 +1,3 @@
-cat > _putchar.c
-
 #include "main.h"                                                                                                                  
 #include <unistd.h>                                                                                                                     
                                                                                                                                         
