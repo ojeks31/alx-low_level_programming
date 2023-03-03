@@ -1,4 +1,4 @@
-_putchar.c
+cat > _putchar.c
 
 #include "main.h"                                                                                                                  
 #include <unistd.h>                                                                                                                     
@@ -13,5 +13,6 @@ _putchar.c
 int _putchar(char c)                                                                                                                    
 {                                                                                                                                       
         return (write(1, &c, 1));                                                                                                       
-}
+}                              
+
 
